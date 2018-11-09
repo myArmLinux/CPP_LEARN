@@ -1,0 +1,19 @@
+Firewall reloaded
+Requirement already satisfied: psutil in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied: chardet in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied: web.py in /usr/local/lib/python2.7/dist-packages
+Requirement already satisfied: virtualenv in /usr/local/lib/python2.7/dist-packages
+You are using pip version 9.0.1, however version 18.1 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+install.sh: line 476: [: !=: unary operator expected
+==================================================================
+Congratulations! Install succeeded!
+==================================================================
+Bt-Panel: http://101.200.57.138:8888
+username: hkeasvbi
+password: bc3afa6c
+Warning:
+If you cannot access the panel, 
+release the following port (8888|888|80|443|20|21) in the security group
+==================================================================
+Time consumed: 0 Minute!

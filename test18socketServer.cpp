@@ -63,7 +63,7 @@ void server() {
             char buf[MAXSIZE];  
             if ((rval = read(client_fd, buf, MAXSIZE)) < 0) {  
                 perror("reading stream error!");  
-                continue;  
+                continue;
             }  
             printf("%s\n", buf);  
   
